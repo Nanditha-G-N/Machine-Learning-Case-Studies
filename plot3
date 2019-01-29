@@ -1,0 +1,28 @@
+country_code,sector,permalink
+GBR,Automotive & Sports,44
+GBR,Blanks,15
+GBR,Cleantech / Semiconductors,442
+GBR,Entertainment,136
+GBR,Health,118
+GBR,Manufacturing,122
+GBR,"News, Search and Messaging",241
+GBR,Others,516
+GBR,"Social, Finance, Analytics, Advertising",421
+IND,Automotive & Sports,31
+IND,Blanks,5
+IND,Cleantech / Semiconductors,54
+IND,Entertainment,76
+IND,Health,42
+IND,Manufacturing,55
+IND,"News, Search and Messaging",130
+IND,Others,284
+IND,"Social, Finance, Analytics, Advertising",147
+USA,Automotive & Sports,505
+USA,Blanks,206
+USA,Cleantech / Semiconductors,7996
+USA,Entertainment,1794
+USA,Health,3269
+USA,Manufacturing,2453
+USA,"News, Search and Messaging",4356
+USA,Others,8314
+USA,"Social, Finance, Analytics, Advertising",7246
